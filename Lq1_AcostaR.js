@@ -1,4 +1,4 @@
-var persona1name = "Maria Delos Santos Las Marias";
+.var persona1name = "Maria Delos Santos Las Marias";
 var persona1age = 25;
 var persona1address = "Upper Session Road, Baguio City, Benguet";
 
